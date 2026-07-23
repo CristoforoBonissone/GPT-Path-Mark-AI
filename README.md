@@ -48,7 +48,6 @@ Cristoforo Bonissone
 https://www.dacris.it/gptpm/index.html
 
 ## License
-
 MIT License
 benchmark
 disk-benchmark
