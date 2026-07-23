@@ -1,0 +1,81 @@
+GPT Path Mark AI
+
+SEQ1M Q8T1
+
+Sequential 1 MiB - Queue Depth 8 - 1 Thread
+
+This benchmark measures the sequential read and write performance of a
+storage device using 1 MiB blocks.
+
+It simulates large file transfers such as:
+
+-   Copying movies
+-   Backing up folders
+-   Transferring ISO images
+-   Editing large video files
+
+------------------------------------------------------------------------
+
+SEQ
+
+Sequential
+
+Data is read or written in continuous order without random access.
+
+This represents the fastest access pattern for SSDs and HDDs.
+
+------------------------------------------------------------------------
+
+1M
+
+1 MiB Block Size
+
+Each read or write operation transfers 1 MiB (1,048,576 bytes).
+
+Large blocks reduce overhead and better represent real-world large file
+transfers.
+
+------------------------------------------------------------------------
+
+Q8
+
+Queue Depth = 8
+
+Up to 8 I/O requests are processed simultaneously.
+
+Modern NVMe SSDs are designed to take advantage of multiple outstanding
+requests, improving throughput.
+
+------------------------------------------------------------------------
+
+T1
+
+1 Thread
+
+The benchmark uses one software thread.
+
+This measures the storage device itself rather than the CPU’s ability to
+generate multiple workloads.
+
+------------------------------------------------------------------------
+
+What does this result represent?
+
+SEQ1M Q8T1 primarily measures the maximum sustained throughput of the
+storage device.
+
+Typical operations include:
+
+-   Copying large files
+-   Video editing
+-   Backup operations
+-   ISO creation
+-   Disk imaging
+
+------------------------------------------------------------------------
+
+GPT Path Mark AI
+
+GPT Path Mark AI measures the real performance of a selected folder
+through the Windows file system, providing results that closely
+represent everyday file copy operations.
