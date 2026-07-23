@@ -1,6 +1,6 @@
 # GPT Path Mark AI
 
-GPT Path Mark AI is a lightweight storage benchmark for Windows.
+GPT Path Mark AI is Real Windows File System Benchmark for SSD, NVMe and HDD for Windows.
 
 Unlike traditional low-level synthetic disk benchmarks, GPT Path Mark AI
 measures the performance of a selected folder through the Windows file system.
@@ -34,6 +34,12 @@ The test is designed to measure sustained storage throughput.
 
 Download the latest version from the Releases section of this repository.
 
+## Download
+
+➡ **Download the latest release**
+
+https://github.com/CristoforoBonissone/GPT-Path-Mark-AI/releases/latest
+
 ## Author
 
 Cristoforo Bonissone  
@@ -42,3 +48,12 @@ https://www.dacris.it/gptpm/index.html
 ## License
 
 MIT License
+benchmark
+disk-benchmark
+ssd
+nvme
+windows
+filesystem
+storage
+purebasic
+performance
