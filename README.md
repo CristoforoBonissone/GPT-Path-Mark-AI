@@ -1,6 +1,6 @@
 # GPT Path Mark AI
 
-![GPT Path Mark AI](nome_esatto_del_tuo_file.png)
+![GPT Path Mark AI]  pic_a.png
 
 GPT Path Mark AI is Real Windows File System Benchmark for SSD, NVMe and HDD for Windows.
 
