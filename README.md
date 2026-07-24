@@ -2,6 +2,8 @@
 
 ![GPT Path Mark AI](pic_a.png)
 
+## Benchmark
+
 GPT Path Mark AI is Real Windows File System Benchmark for SSD, NVMe and HDD for Windows.
 
 Unlike traditional low-level synthetic disk benchmarks, GPT Path Mark AI
@@ -42,7 +44,7 @@ Cristoforo Bonissone
 https://www.dacris.it/gptpm/index.html
 
 ## License
-MIT License
+
 benchmark
 disk-benchmark
 ssd
@@ -50,5 +52,4 @@ nvme
 windows
 filesystem
 storage
-purebasic
 performance
