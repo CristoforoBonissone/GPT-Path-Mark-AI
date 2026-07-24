@@ -6,11 +6,6 @@
 
 ![GPT Path Mark AI](pic_b.png)
 
-
-## Virus Total
-
-![GPT Path Mark AI](virustotal.jpg)
-
 ## Benchmark
 
 GPT Path Mark AI is Real Windows File System Benchmark for SSD, NVMe and HDD for Windows.
@@ -46,6 +41,10 @@ The test is designed to measure sustained storage throughput.
 ➡ **Download the latest release**
 
 https://github.com/CristoforoBonissone/GPT-Path-Mark-AI/releases/latest
+
+## Virus Total Report 1/66 (False Positive)
+
+![GPT Path Mark AI](virustotal.jpg)
 
 ## Author
 
