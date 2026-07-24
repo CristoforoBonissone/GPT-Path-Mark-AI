@@ -2,6 +2,10 @@
 
 ![GPT Path Mark AI](pic_a.png)
 
+## Virus Total
+
+![GPT Path Mark AI](virustotal.jpg)
+
 ## Benchmark
 
 GPT Path Mark AI is Real Windows File System Benchmark for SSD, NVMe and HDD for Windows.
