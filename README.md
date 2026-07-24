@@ -16,8 +16,6 @@ This provides results that closely represent common operations such as:
 - Video file transfers
 - SSD and NVMe performance testing
 
-## Current benchmark
-
 ### SEQ1M Q8T1
 
 - Sequential read and write
@@ -31,10 +29,6 @@ The test is designed to measure sustained storage throughput.
 
 - Microsoft Windows
 - SSD, NVMe, HDD or other file-system-accessible storage device
-
-## Download
-
-Download the latest version from the Releases section of this repository.
 
 ## Download
 
