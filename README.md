@@ -46,6 +46,8 @@ https://github.com/CristoforoBonissone/GPT-Path-Mark-AI/releases/latest
 
 ![GPT Path Mark AI](virustotal.jpg)
 
+https://www.virustotal.com/gui/file/1e5d17de7286fa875ec9e69fcf2b2ff1d6fe487e7abab72f2b9f58bf9f5a1b8e?nocache=1
+
 ## Author
 
 Cristoforo Bonissone  
